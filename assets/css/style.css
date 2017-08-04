@@ -1,0 +1,38 @@
+*div.flex-container{
+	position: absolute;
+	background-color: #39798e;
+	width: 800px;
+	height: 75%;
+	margin-left: 18%;
+
+
+}
+
+div.container{
+	position: absolute;
+	background-color: #8fc4d6;
+	width:50%;
+	height:50%;
+	margin-left: 23%;
+	margin-top: 15%;
+
+}div.row{
+	position: absolute;
+	background-color:#fff938;
+	width: 50%;
+	height: 50%;
+	margin-left: 23%;
+	margin-top: 23%;
+
+}
+
+}
+div.main-area{
+	background-color: orange;
+	position: absolute;
+	width: 50%;
+	height: 50%;
+}
+body{
+	background-image: url(http://blog.2modern.com/wp-content/uploads/2015/10/Piet-Hein-Eek-Blue-Scrapwood-Wallpaper.jpg);
+}*/
